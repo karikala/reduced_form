@@ -51,3 +51,4 @@ else:
 print(False and False)
 
 reduced_form(numerator, denominator, M)
+print(reduced_form(23, 12, 12))
